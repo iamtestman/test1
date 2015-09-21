@@ -1,3 +1,7 @@
-this is test file.
+#include <iostream>
 
-changed.
+int main()
+{
+  std::cout << "changed" << std::endl;
+  return 0;
+}
